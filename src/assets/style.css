@@ -1,0 +1,36 @@
+.container {
+  width: 70vw;
+  margin: 1rem auto;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  padding: 1rem;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.3);
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+select,
+input {
+  width: 200px;
+}
+
+.question {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.star {
+  color: crimson;
+}
+
+@media only screen and (max-width: 600px) {
+  .container {
+    width: 90vw;
+  }
+}

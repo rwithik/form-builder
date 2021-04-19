@@ -1,0 +1,135 @@
+{
+  "error": "",
+  "questions": [
+    {
+      "type": "radio",
+      "question": "Select Credit/Loan type that you have opened with Central Bank in the past 12 months?",
+      "questionID": "265905470",
+      "optional": false,
+      "hint": "Select an option",
+      "options": [
+        {
+          "answerID": "755548742",
+          "answerText": "Kisan Credit Card"
+        },
+        {
+          "answerID": "755548744",
+          "answerText": "Loan Against Bank Deposits"
+        },
+        {
+          "answerID": "755548746",
+          "answerText": "Pradhan Mantri Awas Yojana - Credit Link Subsidy Scheme MAY CLSS"
+        },
+        {
+          "answerID": "755548748",
+          "answerText": "Telco – Broadband"
+        },
+        {
+          "answerID": "755548750",
+          "answerText": "None of the Above"
+        }
+      ]
+    },
+    {
+      "type": "radio",
+      "question": "Select the name of lender with whom you have or had a credit card/loan account.",
+      "questionID": "265905472",
+      "optional": false,
+      "hint": "Select an option",
+      "options": [
+        {
+          "answerID": "755548752",
+          "answerText": "Bajaj Fin Ltd"
+        },
+        {
+          "answerID": "755548754",
+          "answerText": "Hsbc"
+        },
+        {
+          "answerID": "755548756",
+          "answerText": "Icici Bank"
+        },
+        {
+          "answerID": "755548758",
+          "answerText": "Syndicate Bank"
+        },
+        {
+          "answerID": "755548760",
+          "answerText": "None of the Above"
+        }
+      ]
+    },
+    {
+      "type": "radio",
+      "question": "Select Credit card limit you have with FICCL?",
+      "questionID": "265905474",
+      "optional": false,
+      "hint": "Select an option",
+      "options": [
+        {
+          "answerID": "755548762",
+          "answerText": "138000"
+        },
+        {
+          "answerID": "755548764",
+          "answerText": "176000"
+        },
+        {
+          "answerID": "755548766",
+          "answerText": "275000"
+        },
+        {
+          "answerID": "755548768",
+          "answerText": "47000"
+        },
+        {
+          "answerID": "755548770",
+          "answerText": "I Don't Have An Account With Ficcl"
+        }
+      ]
+    },
+    {
+      "type": "radio",
+      "question": "Please select lender with which you might have monthly installment (EMI) with the amount of Rs. 7109?",
+      "questionID": "265905476",
+      "optional": false,
+      "hint": "Select an option",
+      "options": [
+        {
+          "answerID": "755548772",
+          "answerText": "Citicorp Finance"
+        },
+        {
+          "answerID": "755548774",
+          "answerText": "Corp Bank"
+        },
+        {
+          "answerID": "755548776",
+          "answerText": "Sbi Card"
+        },
+        {
+          "answerID": "755548778",
+          "answerText": "Union Bank"
+        },
+        {
+          "answerID": "755548780",
+          "answerText": "None of the Above"
+        }
+      ]
+    },
+    {
+      "type": "input",
+      "question": "Please select the last 5 digits of the PAN card number which belongs to you.",
+      "questionID": "265905478",
+      "optional": false,
+      "hint": "Select an option",
+      "options": [
+        {
+          "answerID": "755548782",
+          "answerText": ""
+        }
+      ]
+    }
+  ],
+  "status": "pending"
+}
