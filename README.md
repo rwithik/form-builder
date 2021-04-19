@@ -9,6 +9,7 @@ Dev version will be available at http://localhost:8080
 
 - `npm i`
 - `npm run build`
+- `npm i -g serve`
 - `serve -s dist`
 
 Production version will be available at http://localhost:5000
